@@ -1,0 +1,4 @@
+Shortest Path:
+    {'Kyoto'}    {'Istanbul'}    {'Paris'}    {'Wien'}    {'Milan'}
+
+Total Cost: 17
